@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raquel-png
 - 👀 I’m interested in game audio and music!!!!
-- 🌱 I’m currently learning C# :(
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on GAME JAMS
 - 📫 How to reach me: email me me@raquelsimone.com
 - 😄 Pronouns: she/her
